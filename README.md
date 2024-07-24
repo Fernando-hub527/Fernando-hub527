@@ -5,7 +5,7 @@
    </a>
 </p>
 
-Olá, trabalho como desenvolvedor de software a alguns anos e atualmente estou me especializando em desenvolvimento backend; apesar disso, gosto de desenvolver soluções e por isso continuo aprendendo tecnologias para além desse objetivo. Gosto de desenvolver, mas gosto ainda mais de ajudar outras pessoas a aprender, por isso estou sempre disponível para ensinar o que sei.
+Trabalho como desenvolvedor de software há alguns anos e atualmente estou me especializando em desenvolvimento backend; apesar disso, gosto de desenvolver soluções e por isso continuo aprendendo tecnologias para além desse objetivo. Gosto também de ajudar outras pessoas a aprender, por isso estou sempre disponível para ensinar o que sei.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fernando-coelho-saraiva-750a391b7)

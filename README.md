@@ -25,5 +25,9 @@ Trabalho como desenvolvedor de software há alguns anos e atualmente estou me es
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fernando-hub527&theme=transparent&bg_color=000&border_color=fff&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=fff&hide_title=true&hide=stars&include_all_commits=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fernando-hub527&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div align="center"><br>
+    <a href="https://github.com/johnfercher">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando-hub527&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-hub527&layout=compact&langs_count=8&theme=github_dark&include_all_commits=true&count_private=true"/>
+    </a>
+</div>

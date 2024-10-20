@@ -26,7 +26,7 @@ Trabalho como desenvolvedor de software há alguns anos e atualmente estou me es
 
 ## GitHub Stats
 <div align="center"><br>
-    <a href="https://github.com/johnfercher">
+    <a href="https://github.com/Fernando-hub527">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando-hub527&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-hub527&layout=compact&langs_count=8&theme=github_dark&include_all_commits=true&count_private=true"/>
     </a>
